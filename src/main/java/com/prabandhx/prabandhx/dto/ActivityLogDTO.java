@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 public class ActivityLogDTO {
     private Long id;
     private Long userId;
-    private String userEmail;
+    private String userEmail; 
     private String userName;
     
     private Long projectId;
