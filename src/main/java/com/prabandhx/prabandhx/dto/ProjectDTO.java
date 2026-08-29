@@ -47,7 +47,7 @@ public class ProjectDTO {
     }
 
     public LocalDate getStartDate() {
-        return startDate;
+        return startDate; 
     }
 
     public void setStartDate(LocalDate startDate) {
