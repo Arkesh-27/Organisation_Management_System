@@ -21,7 +21,7 @@ public class CollaboratorDTO {
     private String inviteUrl;
 
     // Constructors
-    public CollaboratorDTO() {}
+    public CollaboratorDTO() {} 
 
     // Getters and Setters
     public Long getId() {
